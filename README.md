@@ -13,7 +13,7 @@ Notez que cet environnement vous fait utiliser JupyterLab et non pas Jupyter Not
 * `projet/` contient les données et instructions relatives au projet numérique.
 
 __Équipe pédagogique__
-* Responsable de cours : Bruno Figliuzzi et Adeline Fermanian
+* Responsables de cours : Bruno Figliuzzi et Adeline Fermanian
 * Chargé·e·s d'enseignement : 
 
 __Emploi du temps__
@@ -49,11 +49,6 @@ __Emploi du temps__
 
 * __vendredi 1/07 :__
   * __9h00-12h15 :__  cours 10 — Modèles d'apprentissage supervisé non-linéaires et applications pratiques
-
-[//]: # "* __jeudi 1/07 9h-12h : examen écrit et rendu de projet numérique.__
-__Modalités d'évaluation__
-* mini-projet numérique à réaliser en binôme. Deux séances de PC y sont dévouées (le 14/06 et le 24/06). À rendre le 1er juillet (30%).
-* examen sur table avec documents autorisés le 1er juillet (70%).)"
 
 __Pour contribuer à ce repo__
 Ce repo contient un script `pre-commit.sh` qui permet de le nettoyer (supprimer les fichiers auxiliaires de latex, nettoyer les notebooks avec [`nbstripout`](https://pypi.org/project/nbstripout/)).
