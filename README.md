@@ -1,5 +1,5 @@
 # UE 21.2 EC Science des données
-Cours « science des données » à Mines ParisTech (2020­–2021). [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+Cours « science des données » à Mines ParisTech (2021–2022). [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 __Organisation de ce repo__
 * `environment.yml` permet de charger l'environnement conda pour les notebooks via l'interface graphique d'Anaconda ou 
@@ -13,47 +13,47 @@ Notez que cet environnement vous fait utiliser JupyterLab et non pas Jupyter Not
 * `projet/` contient les données et instructions relatives au projet numérique.
 
 __Équipe pédagogique__
-* Responsable de cours : Chloé-Agathe Azencott
-* Chargé·e·s d'enseignement : Nicolas Desassis, Arthur Imbert, Tristan Lazard, Thibaud Martinez, et Lucia Clarotto.
+* Responsable de cours : Bruno Figliuzzi et Adeline Fermanian
+* Chargé·e·s d'enseignement : 
 
 __Emploi du temps__
-* __lundi 31/05 :__ 
+* __lundi 30/05 :__ 
   * __13h45-15h15 :__ cours 1 — Introduction et statistique descriptive (Chapitres 1 & 2)
   * __15h30-17h00 :__ cours 2 — Estimation et propriétés d'un estimateur (Chapitre 3, sections 3.1 à 3.4)
 
-* __jeudi 3/06 :__
-  * __13h45-15h15 :__ cours 3 — Techniques d'estimation (Chapitre 3, sections 3.5 & 3.6)
-  * __15h30-17h00 :__ cours 4 — Tests statistiques (Chapitre 4)
+* __vendredi 3/06 :__
+  * __9h00-10h30 :__ cours 3 — Techniques d'estimation (Chapitre 3, sections 3.5 & 3.6)
+  * __10h45-12h15 :__ PC 1 — Statistique inférentielle (TD)
 
-* __lundi 7/06 :__
-  * __13h45-15h15 :__ PC 1 — Statistique inférentielle (TD)
-  * __15h30-17h00 :__ cours 5 — Réduction de dimension (Chapitre 5)
+* __vendredi 10/06 :__
+  * __9h00-10h30 :__ cours 4 Réduction de dimension (Chapitre 5)
+  * __10h35-12h15 :__ PC 2 — Réduction de dimension (TP)
 
 * __jeudi 10/06 :__
-  * __13h45-15h15 :__ PC 2 — Réduction de dimension (TP)
-  * __15h30-17h00 :__ cours 6 — Introduction à l'apprentissage supervisé (Chapitre 7)
+  * __13h45-15h15 :__ cours 5 — Tests statistiques (Chapitre 4)
+  * __15h30-17h00 :__ cours 6 — Bonnes pratiques (Chapitre 6)
 
-* __lundi 14/06 :__
-  * __13h45-15h15 :__ PC 3 — Pré-traitement & introduction à scikit-learn pour l'apprentissage supervisé
-  * __15h30-17h00 :__ Mini-projet numérique (1)
+* __vendredi 17/06 :__ 
+  * __9h00-10h30 :__ cours 7 - Introduction à l'apprentissage supervisé (Chapitre 7)
+  * __10h45-12h15 :__ PC 3 — Pré-traitement & introduction à scikit-learn pour l'apprentissage supervisé
 
-* __jeudi 17/06 :__
-  * __13h45-15h15 :__ cours 7 — Bonnes pratiques (Chapitre 6)
-  * __15h30-17h00 :__ cours 8 — Régularisation (Chapitre 8)
+  Mini-projet numérique (1)
 
-* __lundi 21/06 :__
-  * __13h45-15h15 :__ PC 4 — Sélection de modèles (TP)
+* __lundi 20/06 :__
+  * __13h45-15h15 :__ cours 8 — Régularisation (Chapitre 8)
+  * __15h30-17h00 :__ PC 4 — Sélection de modèles (TP)
+
+* __vendredi 24/06 :__ 
+  * __9h00-10h30 :__ cours 9 — Modèles d'apprentissage supervisé non-linéaires (Chapitre 9)
   * __15h30-17h00 :__ PC 5 — Modèles linéaires pour la classification (TD)
 
-* __jeudi 24/06 :__
-  * __15h30-17h00 :__ cours 9 — Modèles d'apprentissage supervisé non-linéaires (Chapitre 9) 
-  * __16h-17h30 :__ Mini-projet numérique (2)
+* __vendredi 1/07 :__
+  * __9h00-12h15 :__  cours 10 — Modèles d'apprentissage supervisé non-linéaires et applications pratiques
 
-* __jeudi 1/07 9h-12h : examen écrit et rendu de projet numérique.__
-
+[//]: # "* __jeudi 1/07 9h-12h : examen écrit et rendu de projet numérique.__
 __Modalités d'évaluation__
 * mini-projet numérique à réaliser en binôme. Deux séances de PC y sont dévouées (le 14/06 et le 24/06). À rendre le 1er juillet (30%).
-* examen sur table avec documents autorisés le 1er juillet (70%).
+* examen sur table avec documents autorisés le 1er juillet (70%).)"
 
 __Pour contribuer à ce repo__
 Ce repo contient un script `pre-commit.sh` qui permet de le nettoyer (supprimer les fichiers auxiliaires de latex, nettoyer les notebooks avec [`nbstripout`](https://pypi.org/project/nbstripout/)).
