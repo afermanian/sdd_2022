@@ -37,8 +37,6 @@ __Emploi du temps__
   * __9h00-10h30 :__ cours 7 - Introduction à l'apprentissage supervisé (Chapitre 7)
   * __10h45-12h15 :__ PC 3 — Pré-traitement & introduction à scikit-learn pour l'apprentissage supervisé
 
-  Mini-projet numérique (1)
-
 * __lundi 20/06 :__
   * __13h45-15h15 :__ cours 8 — Régularisation (Chapitre 8)
   * __15h30-17h00 :__ PC 4 — Sélection de modèles (TP)
