@@ -29,15 +29,13 @@ __Emploi du temps__
   * __9h00-10h30 :__ cours 4 Réduction de dimension (Chapitre 5)
   * __10h35-12h15 :__ PC 2 — Réduction de dimension (TP)
 
-* __jeudi 10/06 :__
+* __lundi 13/06 :__
   * __13h45-15h15 :__ cours 5 — Tests statistiques (Chapitre 4)
   * __15h30-17h00 :__ cours 6 — Bonnes pratiques (Chapitre 6)
 
 * __vendredi 17/06 :__ 
   * __9h00-10h30 :__ cours 7 - Introduction à l'apprentissage supervisé (Chapitre 7)
   * __10h45-12h15 :__ PC 3 — Pré-traitement & introduction à scikit-learn pour l'apprentissage supervisé
-
-  Mini-projet numérique (1)
 
 * __lundi 20/06 :__
   * __13h45-15h15 :__ cours 8 — Régularisation (Chapitre 8)
