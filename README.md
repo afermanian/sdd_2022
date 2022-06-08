@@ -43,7 +43,7 @@ __Emploi du temps__
 
 * __vendredi 24/06 :__ 
   * __9h00-10h30 :__ cours 9 — Modèles d'apprentissage supervisé non-linéaires (Chapitre 9)
-  * __15h30-17h00 :__ PC 5 — Modèles linéaires pour la classification (TD)
+  * __10h45-12h15 :__ PC 5 — Modèles linéaires pour la classification (TD)
 
 * __vendredi 1/07 :__
   * __9h00-12h15 :__  cours 10 — Modèles d'apprentissage supervisé non-linéaires et applications pratiques
