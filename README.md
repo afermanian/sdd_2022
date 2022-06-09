@@ -4,7 +4,7 @@ Cours « science des données » à Mines ParisTech (2021–2022). [![License: C
 __Organisation de ce repo__
 * `environment.yml` permet de charger l'environnement conda pour les notebooks via l'interface graphique d'Anaconda ou 
 ```bash
-   conda env create -f environment.yml -n sdd2021
+   conda env create -f environment.yml -n sdd2022
    conda activate sdd2021
 ```
 Notez que cet environnement vous fait utiliser JupyterLab et non pas Jupyter Notebook. JupyterLab est plus moderne et plus agréable d'utilisation (voir [la documentation](https://jupyterlab.readthedocs.io/en/stable/)). En particulier, JupyterLab permet de copier des cellules entre notebooks, et l'[extension "Table of contents"](https://github.com/jupyterlab/jupyterlab-toc/blob/master/toc.gif) qui facilite la navigation dans un notebook y est native.
