@@ -49,7 +49,7 @@
   showstringspaces=false,
 }
 
-\input{../../poly/contents/notations}
+\input{notations}
 
 \begin{document}
 
@@ -59,7 +59,7 @@ PC 5 -- Modèles linéaires pour la classification
 \end{center}
 
 \noindent
-\hfill 21 juin 2021.
+\hfill 24 juin 2022.
 
 \noindent
 \rule{\textwidth}{.4pt}
@@ -286,9 +286,9 @@ Ces hyperplans sont représentés en pointillés sur la figure~\ref{fig:margin}.
   affecterait-il $H$, $H_+$ et $H_-$ ? Même question pour un point situé loin
   de $H_+$ (ou $H_-$).
 \item Quelle est la valeur de la marge ?
-\item Les observations $\xx^i$ étant situées à l'extérieur de la zone
+\item Pour les observations $\xx^i$ étant situées à l'extérieur de la zone
   d'indécision, quelle est l'inégalité vérifiée par
-  $y^i \innerproduct{\ww,~\xx^i} + b$ pour $i=1, \dots, n$ ?
+  $y^i \left(\innerproduct{\ww,~\xx^i} + b \right)$ pour $i=1, \dots, n$ ?
 \item Poser le problème d'optimisation sous contraintes correspondant à maximiser la marge tout en assurant que l'inégalité de la question précédente est vraie pour $i=1, \dots, n$.
 Montrer qu'il est équivalent à 
 \begin{equation}
